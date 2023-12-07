@@ -4,7 +4,7 @@ This is my home page! My name is Isaac Lee and I am a student at [Cal State Full
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/I-saacLee.
+My GitHub page is (http://github.com/I-saacLee).
 
 ### CPSC 120
 
